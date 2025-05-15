@@ -10,7 +10,7 @@ http://127.0.0.1:8501
 
 
 NOTE: For the first time since embeddings and models will be downloaded so it might take 10-15 minutes based
-on internet speed. for second onwards inference time deoends on audio length and is approximately 1 min.
+on internet speed. for second onwards inference time depends on audio length and is approximately 1 min.
 ---------------------------------------------------------------------------------------------------------
 
 **Problem Statemenmt:**
