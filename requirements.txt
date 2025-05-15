@@ -1,0 +1,25 @@
+# Core packages
+streamlit==1.44.1
+chromadb==1.0.6
+openai==1.78.1
+langchain-openai==0.3.16
+langchain-ollama==0.3.2
+langchain-community==0.3.23
+langchain-core==0.3.59
+langchain==0.3.25
+langchain-text-splitters==0.3.8
+
+# Document and data processing
+reportlab==4.4.0
+PyMuPDF==1.25.5
+pdfminer.six==20250327
+pdfplumber==0.11.6
+pandas==2.2.3
+assemblyai==0.40.2
+
+# Utilities
+python-dotenv==1.1.0
+requests==2.32.3
+tqdm==4.67.1
+langchain-openai>=0.0.2
+openai>=1.1.0
